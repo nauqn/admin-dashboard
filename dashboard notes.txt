@@ -1,0 +1,3 @@
+top bar flex column with (projects & side bar)
+
+then: projects/sidebar flexbox row (nest it)
